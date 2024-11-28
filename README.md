@@ -1,5 +1,7 @@
 # knightsTravails
 
+> *The last excercise within TOP's Computer Science module, the purpose was to solve a variation of the common "Knights Tour" problem. With the intention to dmeonstrate the shortest path necessitated to traverse from select starting to ending coordinates. This program utilises a **Breadth First Search Algorithm** within the realms of **Graph** data structures*.
+
 ## ABOUT
 
 1. Think about the rules of the board and knight, and make sure to follow them.
